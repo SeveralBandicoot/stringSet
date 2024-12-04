@@ -1,3 +1,21 @@
+/*
+
+String Set
+
+12/4/2024
+
+@AJ Enrique Arguello
+
+Objectives: Create an STL Integer Set of random words
+
+Using an iterator, Display all the names in the Set
+
+Did the program automatically sort the words?
+
+Invoke the find command/function and search for a name within your set
+
+*/
+
 #include <iostream>
 #include <set>
 
